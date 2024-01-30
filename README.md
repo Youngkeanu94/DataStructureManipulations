@@ -1,0 +1,1 @@
+This C# program demonstrates the use of stacks and queues to perform data operations. The first section reverses a user-input word using a stack, showcasing how LIFO (Last In, First Out) data structure works. The second section simulates a queue at a grocery store, implementing FIFO (First In, First Out) operations like enqueueing and dequeueing. 
